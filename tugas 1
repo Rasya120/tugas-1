@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>persyaratan kemampuan</title>
+</head>
+<body>
+<h1>persyaratan kemampuan</h1>
+<h3>rasya rizkyeno</h3>
+<h3>XI-RPL</h3>
+<h3>26-07-2024</h3>
+<p>Materi pada kelas ini ramah untuk pemula sehingga prasyarat kemampuan yang harus Anda miliki hanyalah pengetahuan dasar mengenai penggunaan komputer dan logika pemrograman. Berikut adalah detail prasyarat kemampuan yang harus Anda miliki pada kelas ini</p>
+<ul>Kemampuan Penggunaan Komputer
+    <li>Pengetahuan dasar komputer</li>
+    <li>Kemampuan navigasi website</li>
+    <li>Kemampuan memecahkan masalah</li>
+    <li>Kemampuan belajar mandiri</li>
+</ul>
+
+<ol type="A">
+    Logika Dasar Pemrograman
+    <li>Logika Pemrograman</li>
+    <li>Algoritma Pemrograman</li>
+    <li>Gerbang Logika</li>
+</ol>
+
+<p>
+    Nah, bagaimana menurut Anda? Sudah cukupkah bekal Anda untuk mengikuti kelas ini? Jika belum, kami sangat menyarankan Anda untuk mengikuti kelas <a href="https://www.google.com/"(Programming Logic 101) a>. Namun, jika Anda belum lulus kelas tersebut pun tidak apa-apa karena Anda tetap bisa mengikuti keseluruhan materi kelas dengan baik
+</p>
+</body>
+</html>
